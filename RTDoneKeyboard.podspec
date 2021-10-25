@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   
   s.swift_version = '5.0'
   
-  s.platfroms = {
+  s.platfrom = {
       "ios": "13.0"
   }
   
