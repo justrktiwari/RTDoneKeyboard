@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  RTDoneKeyboard
 //
-//  Created by Ajay_upwork on 10/25/2021.
-//  Copyright (c) 2021 Ajay_upwork. All rights reserved.
+//  Created by Rahul Tiwari on 10/25/2021.
+//  Copyright (c) 2021 justrktiwari. All rights reserved.
 //
 
 import UIKit

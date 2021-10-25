@@ -1,6 +1,6 @@
 # RTDoneKeyboard
 
-[![CI Status](https://img.shields.io/travis/Ajay_upwork/RTDoneKeyboard.svg?style=flat)](https://travis-ci.org/Ajay_upwork/RTDoneKeyboard)
+[![CI Status](https://img.shields.io/travis/justrktiwari/RTDoneKeyboard.svg?style=flat)](https://travis-ci.org/justrktiwari/RTDoneKeyboard)
 [![Version](https://img.shields.io/cocoapods/v/RTDoneKeyboard.svg?style=flat)](https://cocoapods.org/pods/RTDoneKeyboard)
 [![License](https://img.shields.io/cocoapods/l/RTDoneKeyboard.svg?style=flat)](https://cocoapods.org/pods/RTDoneKeyboard)
 [![Platform](https://img.shields.io/cocoapods/p/RTDoneKeyboard.svg?style=flat)](https://cocoapods.org/pods/RTDoneKeyboard)
@@ -22,7 +22,7 @@ pod 'RTDoneKeyboard'
 
 ## Author
 
-Ajay_upwork, Ajay_upwork@dhani.com
+Rahul Tiwari, justrktiwari@gmail.com.com
 
 ## License
 
