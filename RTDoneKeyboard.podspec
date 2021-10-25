@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RTDoneKeyboard'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This project will add done button on UITextfield and UITextView.'
 
 # This description is used to generate tags and improve search results.
@@ -30,9 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'RTDoneKeyboard/Classes/**/*.swift'
-  
-  s.swift_version = '5.0'
+  s.source_files = 'RTDoneKeyboard/Classes/**/*'
   
   # s.resource_bundles = {
   #   'RTDoneKeyboard' => ['RTDoneKeyboard/Assets/*.png']
