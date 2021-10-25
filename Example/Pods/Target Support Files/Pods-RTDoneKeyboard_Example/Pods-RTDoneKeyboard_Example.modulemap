@@ -1,0 +1,6 @@
+framework module Pods_RTDoneKeyboard_Example {
+  umbrella header "Pods-RTDoneKeyboard_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
