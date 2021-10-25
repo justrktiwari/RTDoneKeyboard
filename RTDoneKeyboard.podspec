@@ -28,13 +28,11 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/justrktiwari/RTDoneKeyboard.git', :tag => s.version.to_s }
    s.social_media_url = 'https://twitter.com/justrktiwari'
 
+  s.ios.deployment_target = '9.0'
+
   s.source_files = 'RTDoneKeyboard/Classes/**/*'
   
   s.swift_version = '5.0'
-  
-  s.platfrom = {
-      "ios": "13.0"
-  }
   
   # s.resource_bundles = {
   #   'RTDoneKeyboard' => ['RTDoneKeyboard/Assets/*.png']
