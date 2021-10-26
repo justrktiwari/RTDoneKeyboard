@@ -22,7 +22,7 @@ pod 'RTDoneKeyboard'
 
 ## Author
 
-Rahul Tiwari, justrktiwari@gmail.com.com
+Rahul Tiwari, justrktiwari@gmail.com
 
 ## License
 
