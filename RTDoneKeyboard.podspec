@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Rahul Tiwari' => 'justrktiwari@gmail.com' }
   s.source           = { :git => 'https://github.com/justrktiwari/RTDoneKeyboard.git', :tag => s.version.to_s }
-   s.social_media_url = 'https://twitter.com/justrktiwari'
+  s.social_media_url = 'https://twitter.com/justrktiwari'
 
   s.ios.deployment_target = '9.0'
 
